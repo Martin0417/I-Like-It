@@ -6,3 +6,6 @@
 
 ### August 10, 2016
 - [klass/tests.js at master · ded/klass](https://github.com/ded/klass/blob/master/test/tests.js) 
+
+### August 15, 2016
+- [Web 研发模式演变 · Issue #184 · lifesinger/blog](https://github.com/lifesinger/blog/issues/184) 
