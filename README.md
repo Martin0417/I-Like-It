@@ -9,3 +9,6 @@
 
 ### August 15, 2016
 - [Web 研发模式演变 · Issue #184 · lifesinger/blog](https://github.com/lifesinger/blog/issues/184) 
+
+### August 17, 2016
+- [Clojure Flavored JavaScript](https://oyanglul.us/clojure-flavored-javascript/zh/) 
