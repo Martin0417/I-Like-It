@@ -12,3 +12,6 @@
 
 ### August 17, 2016
 - [Clojure Flavored JavaScript](https://oyanglul.us/clojure-flavored-javascript/zh/) 
+
+### August 25, 2016
+- [搜索 | svg g_jQuery之家-自由分享jQuery、html5、css3的插件库](http://www.htmleaf.com/plus/search.php) 
