@@ -18,3 +18,6 @@
 
 ### September 18, 2016
 - [掘金酱](http://e.xitu.io/) 
+
+### September 19, 2016
+- [三大特性 - Ant Design](http://ant.design/docs/spec/feature#确定) 
