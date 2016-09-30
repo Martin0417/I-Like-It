@@ -21,3 +21,6 @@
 
 ### September 19, 2016
 - [三大特性 - Ant Design](http://ant.design/docs/spec/feature#确定) 
+
+### September 30, 2016
+- [三大特性 - Ant Design](http://ant.design/docs/spec/feature#确定) 
