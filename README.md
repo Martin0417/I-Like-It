@@ -24,3 +24,6 @@
 
 ### September 30, 2016
 - [三大特性 - Ant Design](http://ant.design/docs/spec/feature#确定) 
+
+### November 18, 2016
+- [nucliweb/People-You-Should-Follow-in-Codepen: People You Should Follow in Codepen](https://github.com/nucliweb/People-You-Should-Follow-in-Codepen) 
