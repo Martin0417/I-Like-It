@@ -27,3 +27,6 @@
 
 ### November 18, 2016
 - [nucliweb/People-You-Should-Follow-in-Codepen: People You Should Follow in Codepen](https://github.com/nucliweb/People-You-Should-Follow-in-Codepen) 
+
+### December 11, 2016
+- [详解弹性盒Flexbox - 简书](http://www.jianshu.com/p/8fc2acda3e92) 
