@@ -30,3 +30,6 @@
 
 ### December 11, 2016
 - [详解弹性盒Flexbox - 简书](http://www.jianshu.com/p/8fc2acda3e92) 
+
+### February 25, 2017
+- [Browser Actions --扩展开发文档](http://open.chrome.360.cn/extension_dev/browserAction.html#ui) 
